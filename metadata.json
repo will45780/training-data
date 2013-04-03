@@ -1,0 +1,51 @@
+{
+    "name": "Training Data",
+    "description": "Training data relating to attendees of the Open Data Institutes Open Data in Practise training course.",
+    "license": {
+      "name": "Open Database License",
+      "url": "http://opendatacommons.org/licenses/odbl/1.0/"
+    },
+    "definitions": [
+        {
+            "label": "Age_Band", 
+            "name": "Age Band", 
+            "type": "text"
+        },
+        {
+            "label": "Sex", 
+            "name": "Sex", 
+            "type": "text"
+        },
+        {
+            "label": "Locality", 
+            "name": "Locality", 
+            "type": "text"
+        },
+        {
+            "label": "PCs", 
+            "name": "Number of PCs Owned", 
+            "type": "decimal"
+        },
+        {
+            "label": "Laptops", 
+            "name": "Number of Laptops Owned", 
+            "type": "decimal"
+        },
+        {
+            "label": "Tablets", 
+            "name": "Number of Tablets Owned", 
+            "type": "decimal"
+        },
+        {
+            "label": "Smartphones", 
+            "name": "Number of Smartphones Owned", 
+            "type": "decimal"
+        },
+        {
+            "label": "Common Brand", 
+            "name": "Most Common Brand", 
+            "type": "decimal"
+        }
+    ],
+    "data": "data.csv"
+}
