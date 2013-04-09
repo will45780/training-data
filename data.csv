@@ -1,18 +1,12 @@
-Age_Band,Sex,Locality,PCs,Laptops,Tablets,Smartphones,Common Brand
-25-30, M, Southampton, 3, 4, 1, 2, Apple
+Age Band,Gender,Time in current job,Highest Qualification,No. of Kids,Favourite subject at school,Last country visited,Make of phone
+20-30,M,5,PhD,0,Physics,Germany,Apple
 _Group1_Person1
 _Group1_Person2
 _Group1_Person3
-_Group1_Person4
 _Group2_Person1
 _Group2_Person2
 _Group2_Person3
-_Group2_Person4
 _Group3_Person1
 _Group3_Person2
 _Group3_Person3
 _Group3_Person4
-_Group4_Person1
-_Group4_Person2
-_Group4_Person3
-_Group4_Person4
